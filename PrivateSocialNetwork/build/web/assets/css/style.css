@@ -1,0 +1,399 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    background-image: url("../images/happy_feet.jpg");
+    width: 100%;
+    min-height: 759px;
+}
+
+.login {
+    border-radius: 16px;
+    margin-top: 68px;
+    box-shadow: 5px 5px 25px #000;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.52);
+    padding-bottom: 25px;
+}
+
+.login ul li {
+    width: 50% !important;
+}
+
+#wrapper a {
+    color: white;
+}
+
+.nav-tabs > li.active > a {
+    background: none !important;
+    border: none !important;
+}
+
+.nav > li > a:hover {
+    border: none;
+    background: none;
+}
+
+.nav a {
+    text-align: center;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+    color: #fff;
+}
+
+/*.tab-content {
+    padding: 0 105px;
+    margin-top: 20px;
+}*/
+
+#home {
+    text-align: center;
+}
+
+#home input:first-child {
+    margin-bottom: 25px;
+}
+
+#home input {
+    border-radius: 28px;
+    padding: 12px;
+    width: 100%;
+    background: rgba(238, 238, 238, 0.65);
+    border: none;
+    margin-bottom: 25px;
+}
+
+input#message {
+    background: #ffd6d0;
+    color: red;
+    border: 3px solid red;
+}
+
+.login img {
+    padding: 0 133px;
+    margin-top: 67px;
+}
+
+.login h1 {
+    color: #fff !important;
+    margin: 17px 0 34px -26px;
+}
+
+#home a:last-child {
+    border: 2px solid #fff;
+    padding: 10px 39px;
+    border-radius: 16px;
+    /* margin: 55px 0 0px 124px; */
+    text-decoration: none;
+    margin: auto;
+    display: inline-block;
+}
+
+.login a:hover {
+    background: #fff;
+    color: black !important;
+}
+
+.tab-pane {
+    margin: auto !important;
+    width: 65% !important;
+}
+
+.form-inline .form-control {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.form-group label {
+    color: #fff;
+}
+
+.tab-content form {
+    margin-top: 57px;
+}
+
+.tab-content form input[type=submit]:hover {
+    background: #fff;
+    color: #000;
+}
+
+.tab-content form input[type=submit] {
+    background: none;
+    border: 2px solid #fff;
+    border-radius: 13px;
+    color: #fff;
+}
+
+/* Home Page CSS*/
+#home-page .container-fluid {
+    padding: 0;
+}
+
+#home-page header {
+    background-color: #03a9f3;
+    height: 50px;
+    box-shadow: 0px 3px 10px -2px #000;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#home-page header a {
+    color: #fff;
+}
+
+.home {
+    margin-top: 10px;
+}
+
+.profile {
+    text-align: right;
+    margin-top: 10px;
+
+}
+
+.glyphicon-home:before {
+    color: #fff;
+    font-size: 20px;
+}
+
+#home-page header .logo h1 {
+    margin: 0;
+}
+
+.logo {
+    text-align: center;
+    color: #fff;
+}
+
+body#main-page {
+    background: #ededed;
+}
+
+div#content {
+    margin-top: 65px;
+}
+
+.box {
+    background: #fff;
+    box-shadow: inset 0 0 7px 2px rgba(0, 0, 0, .1);
+    display: flex;
+    padding: 10px 15px;
+    display: block;
+
+}
+
+.header {
+    position: relative;
+    display: flex;
+}
+
+.userProfileImage {
+    margin-right: 10px;
+}
+
+.username {
+    -webkit-box-orient: vertical;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.postTime {
+    line-height: 0.1;
+    color: #999;
+    font-size: 12px;
+}
+
+.userPost {
+    margin-top: 10px;
+}
+
+.box hr {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.footer {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+}
+
+.comments {
+    background: #e2f5fe;
+    padding: 10px;
+    display: block;
+}
+
+.comments img {
+    margin-right: 20px;
+    float: left;
+}
+
+div#abc {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.userInfo {
+    display: flex;
+    margin-right: 9px;
+}
+
+.postedDetails p {
+    color: #365899;
+}
+
+.info .userImage img {
+    max-width: 20px;
+    max-height: 20px;
+    margin-right: 10px;
+}
+
+.profileShortcut {
+    display: flex;
+}
+
+.userPostImage img {
+    max-width: 913px;
+}
+
+.newPost textarea {
+    width: 100%;
+}
+
+.newPost {
+    background: #fff;
+    padding: 5px 15px;
+}
+
+#addComment a {
+    vertical-align: top;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+.redcolor {
+    color: red;
+}
+
+#allposts {
+    margin-top: 5px;
+}
+
+.sidebar-outer {
+    position: relative;
+}
+@media (min-width: 768px) {
+    .sidebar {
+        position: fixed;
+    }
+}
+
+#profilePageInfo {
+    margin-top: 20px;
+}
+
+#edit-Profile-form label {
+    color: black;
+}
+
+a {
+    cursor: hand;
+}
+
+#map {
+    width: 550px;
+    height: 480px;
+}
+
+#statusUpdate {
+    margin-top: 20px;
+}
+
+/*Profile page css*/
+
+.header .userProfileImage img {
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.userInfo .userImage img {
+    max-width: 40px;
+    max-height: 40px;
+}
+
+#addComment img {
+    max-width: 40px;
+    max-height: 38px;
+}
+
+.profileImage img {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 100px;
+}
+.postImage img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+div#profileInfo {
+    background: #e2f5fe;
+    text-align: center;
+    display: flex;
+    padding: 10px 0;
+}
+
+.profileImage p {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+body#profile-page {
+    background: url("../images/banner-blue-bg.jpg") no-repeat;
+    background-color: #ededed;
+}
+
+#profile {
+    margin-top: 220px;
+}
+
+#profile header {
+    background: #ededed;
+    height: 40px;
+    position: relative;
+}
+
+#profile .back {
+    margin-top: 6px;
+    display: flex;
+}
+
+#profile span.glyphicon.glyphicon-arrow-left {
+    font-size: 25px;
+    margin-right: 17px;
+}
+
+.back p {
+    margin-top: 4px;
+}
+
+.delete {
+    position: absolute;
+    right: 0;
+}
+
+.delete a {
+    cursor: pointer;
+}
+
+

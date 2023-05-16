@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/Logout.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/SearchUser.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/GetProfile.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/LoadMorePosts.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/following.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/SubmitPost.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/UpdateStatus.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/Home.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/messaging.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/model/User.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/DownloadRequest.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/META-INF/context.xml</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/UnfollowServlet.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/RegisterUser.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/database/Database.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/PreventPrintScreen.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/model/Post.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/DismissBreachNotification.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/DeletePost.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/error.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/index.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/assets/js/profile.js</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/LoadMessages.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/model/Comment.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/LikeServlet.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/UpdateProfile.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/PostComment.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/notifications.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/profile.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/home.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/WEB-INF/web.xml</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/assets/js/search.js</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/SendMessages.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/AuthUser.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/followers.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/search.jsp</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/FollowServlet.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/CheckStatus.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/ProfileServlet.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/model/Message.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/assets/js/profileposts.js</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/steganography/Steganography.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/src/java/controller/servlets/ViewComment.java</file>
+            <file>file:/D:/my/New%20folder/PrivateSocialNetwork/web/assets/js/jquery.min.js</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,1 @@
+Create a sub-drirectory "profiles" in "\build\web\" and copy the file "avatar.png"
